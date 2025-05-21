@@ -1,0 +1,17 @@
+body {
+  background-color: #aac7f2;
+  background-blend-mode: lighten;
+}
+
+.calculator {
+  max-width: 400px;
+  margin: auto;
+  padding: 30px;
+  border-radius: 15px;
+  background-color: rgba(255, 255, 255, 0.95);
+  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+}
+
+.result-box {
+  font-size: 1.2rem;
+}
